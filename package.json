@@ -1,0 +1,12 @@
+{
+    "name": "node-red-linebot-practice",
+    "description": "初めてのnode-red-linebot",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_mbp.local.json",
+            "credentialsFile": "flows_mbp.local_cred.json"
+        }
+    }
+}
